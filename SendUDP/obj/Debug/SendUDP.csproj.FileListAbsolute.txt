@@ -1,0 +1,9 @@
+D:\vnet\RabbitMQ\SendUDP\bin\Debug\SendUDP.exe.config
+D:\vnet\RabbitMQ\SendUDP\bin\Debug\SendUDP.exe
+D:\vnet\RabbitMQ\SendUDP\bin\Debug\SendUDP.pdb
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.csprojResolveAssemblyReference.cache
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.Form1.resources
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.Properties.Resources.resources
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.csproj.GenerateResource.Cache
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.exe
+D:\vnet\RabbitMQ\SendUDP\obj\Debug\SendUDP.pdb

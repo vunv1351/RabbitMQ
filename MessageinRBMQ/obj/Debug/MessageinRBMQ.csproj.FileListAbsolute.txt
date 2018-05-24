@@ -1,0 +1,12 @@
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\MessageinRBMQ.exe.config
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\MessageinRBMQ.exe
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\MessageinRBMQ.pdb
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\Newtonsoft.Json.dll
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\RabbitMQ.Client.dll
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\Newtonsoft.Json.xml
+D:\vnet\RabbitMQ\MessageinRBMQ\bin\Debug\RabbitMQ.Client.xml
+D:\vnet\RabbitMQ\MessageinRBMQ\obj\Debug\MessageinRBMQ.csprojResolveAssemblyReference.cache
+D:\vnet\RabbitMQ\MessageinRBMQ\obj\Debug\MessageinRBMQ.exe
+D:\vnet\RabbitMQ\MessageinRBMQ\obj\Debug\MessageinRBMQ.pdb

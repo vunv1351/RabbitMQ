@@ -1,0 +1,9 @@
+D:\vnet\RabbitMQ\ReviceDataUDP\bin\Debug\ReviceDataUDP.exe
+D:\vnet\RabbitMQ\ReviceDataUDP\bin\Debug\ReviceDataUDP.exe.config
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.Form1.resources
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.Properties.Resources.resources
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.csproj.GenerateResource.Cache
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.exe
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.pdb
+D:\vnet\RabbitMQ\ReviceDataUDP\bin\Debug\ReviceDataUDP.pdb
+D:\vnet\RabbitMQ\ReviceDataUDP\obj\Debug\ReviceDataUDP.csprojResolveAssemblyReference.cache

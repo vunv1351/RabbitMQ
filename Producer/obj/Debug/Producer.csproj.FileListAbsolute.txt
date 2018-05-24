@@ -1,0 +1,13 @@
+D:\vnet\RabbitMQ\Producer\bin\Debug\Producer.exe.config
+D:\vnet\RabbitMQ\Producer\bin\Debug\Producer.exe
+D:\vnet\RabbitMQ\Producer\bin\Debug\Producer.pdb
+D:\vnet\RabbitMQ\Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\vnet\RabbitMQ\Producer\bin\Debug\RabbitMQ.Client.dll
+D:\vnet\RabbitMQ\Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\vnet\RabbitMQ\Producer\bin\Debug\RabbitMQ.Client.xml
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.csprojResolveAssemblyReference.cache
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.Form1.resources
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.Properties.Resources.resources
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.csproj.GenerateResource.Cache
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.exe
+D:\vnet\RabbitMQ\Producer\obj\Debug\Producer.pdb

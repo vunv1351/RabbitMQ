@@ -1,0 +1,6 @@
+D:\vnet\RabbitMQ\opportion\bin\Debug\opportion.exe.config
+D:\vnet\RabbitMQ\opportion\bin\Debug\opportion.exe
+D:\vnet\RabbitMQ\opportion\bin\Debug\opportion.pdb
+D:\vnet\RabbitMQ\opportion\obj\Debug\opportion.csprojResolveAssemblyReference.cache
+D:\vnet\RabbitMQ\opportion\obj\Debug\opportion.exe
+D:\vnet\RabbitMQ\opportion\obj\Debug\opportion.pdb

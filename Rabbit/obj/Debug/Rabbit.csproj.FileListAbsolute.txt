@@ -1,0 +1,10 @@
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\Rabbit.exe.config
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\Rabbit.exe
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\Rabbit.pdb
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\RabbitMQ.Client.dll
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\vnet\RabbitMQ\Rabbit\bin\Debug\RabbitMQ.Client.xml
+D:\vnet\RabbitMQ\Rabbit\obj\Debug\Rabbit.exe
+D:\vnet\RabbitMQ\Rabbit\obj\Debug\Rabbit.pdb
+D:\vnet\RabbitMQ\Rabbit\obj\Debug\Rabbit.csprojResolveAssemblyReference.cache
