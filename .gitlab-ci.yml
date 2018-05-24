@@ -1,5 +1,8 @@
 version: 0.0
 os: windows
+files:
+  - source:
+    destination: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
     - location:build.bat
