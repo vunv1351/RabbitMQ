@@ -3,6 +3,8 @@ os: windows
 files:
   - source:
     destination: C:\Users\Administrator\Desktop
+permissions:
+   - object: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
     - location:build.bat
