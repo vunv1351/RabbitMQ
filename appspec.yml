@@ -7,7 +7,6 @@ hooks:
   BeforeInstall:
      - location: build.bat
        runas: Administrator
-      
   AfterInstall:
     - location:build.bat
       runas: Administrator
