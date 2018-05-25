@@ -5,5 +5,5 @@ files:
     destination: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
-     - location:build.bat
+     - location:\build.bat
        timeout: 900
