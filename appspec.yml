@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \SendUDP\bin\Debug\
+  - source: \ReviceDataUDP\bin\Debug
     destination: C:\Users\Administrator\Desktop\RabbitMQ
 hooks:
   BeforeInstall:
