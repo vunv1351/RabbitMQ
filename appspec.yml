@@ -1,10 +1,8 @@
 version: 0.0
 os: windows
 files:
-  - source:
+  - source:\Desktop
     destination: C:\Users\Administrator\Desktop
-permissions:
-   - object: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
      - location:build.bat
