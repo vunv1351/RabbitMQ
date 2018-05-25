@@ -12,8 +12,5 @@ hooks:
      - location: build.bat
        runas: Administrator
        timeout: 900
-    ApplicationStart:
-     - location: build.bat
-       runas: Administrator
-       timeout: 900
+   
 
