@@ -1,8 +1,8 @@
 version: 0.0
 os: windows
 files:
-  - source: \Desktop\RabbitMQ
-    destination: C:\Users\Administrator\Desktop\RabbitMQ
+  - source: \Desktop
+    destination: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
      - location: build.bat
