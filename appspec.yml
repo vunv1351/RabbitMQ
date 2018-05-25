@@ -8,4 +8,12 @@ hooks:
      - location: build.bat
        runas: Administrator
        timeout: 900
+   AfterInstall:
+     - location: build.bat
+       runas: Administrator
+       timeout: 900
+    ApplicationStart:
+     - location: build.bat
+       runas: Administrator
+       timeout: 900
 
