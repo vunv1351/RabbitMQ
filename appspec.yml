@@ -9,4 +9,6 @@ hooks:
        runas: Administrator
        timeout: 900
   AfterInstall:
-    - location:run.bat 
+    - location: run.bat
+      runas: Administrator
+       timeout: 900
