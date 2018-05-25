@@ -3,8 +3,6 @@ os: windows
 files:
   - source: \SendUDP\bin\Debug\
     destination: C:\Users\Administrator\Desktop\RabbitMQ
-permissions:
-   - object: C:\Users\Administrator\Desktop\RabbitMQ
 hooks:
   BeforeInstall:
      - location: build.bat
