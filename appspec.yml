@@ -1,0 +1,7 @@
+version: 0.0
+os: windows
+hooks:
+  BeforeInstall:
+    - location:build.bat
+      timeout: 900
+
