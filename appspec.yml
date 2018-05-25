@@ -5,5 +5,5 @@ files:
     destination: C:\Users\Administrator\Desktop\RabbitMQ
 hooks:
   BeforeInstall:
-     - location:/build.bat
+     - location:C:\Users\Administrator\Desktop\RabbitMQ\build.bat
        timeout: 900
