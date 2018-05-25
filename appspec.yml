@@ -4,7 +4,6 @@ files:
   - source: \
     destination: C:\Users\Administrator\Desktop\RabbitMQ
 hooks:
- 
   BeforeInstall:
     - location: build.bat
       runas: Administrator
