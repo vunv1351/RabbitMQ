@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \SendUDP\bin\Debug
+  - source: \SendUDP\bin\Debug\SendUDP
     destination: C:\Users\Administrator\Desktop
 hooks:
   BeforeInstall:
